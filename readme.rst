@@ -1,3 +1,5 @@
+A web programming class assignment project for finals using CodeIgniter
+
 ###################
 What is CodeIgniter
 ###################
